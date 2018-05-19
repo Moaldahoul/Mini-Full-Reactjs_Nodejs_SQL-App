@@ -4,7 +4,7 @@
 /node_modules
 
 #server
-/config/config-secret.json
+/config/config.json
 
 # testing
 /coverage
