@@ -3,7 +3,8 @@
 # dependencies
 /node_modules
 
-/config
+#server
+/config/config-secret.json
 
 # testing
 /coverage
